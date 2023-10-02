@@ -1,4 +1,4 @@
-# Science Research Activity Support System (SRASS)​ - Capstone Project
+# <img src="https://raw.githubusercontent.com/SCIENCE-RESEARCH-ACTIVITY-SUPPORT-SRASS/.github/main/profile/asset/logo.png" width="80" height="50" style="border-radius: 10%"/> Science Research Activity Support System (SRASS)​ - Capstone Project
 
 ## Welcome to our Graduation Capstone Project
 
@@ -16,7 +16,7 @@
 - [Description](#description)
 - [Live Demo](#live-demo)
 - [Technology](#technology)
-- [Functional requirements](#functional-requirements)
+- [Requirements](#requirements)
 - [Useful Resources](#useful-resources)
 - [Contributors](#contributors)
 - [References](#references)
@@ -41,7 +41,7 @@ This is a sophisticated process. Furthermore, this process largely depends on th
 
 
 ## Live Demo
- 👨‍💻 [Live Demo Here](https://youtu.be/A09Ge1tkx1A?si=Z0oWWuk3udIx7zgV)
+ 👨‍💻 [Live Demo Here]()
   
 ## Technology
 **1. Frontend**
@@ -189,7 +189,7 @@ A system handler is a system actor that performs some system's special tasks. Th
 
 
 ## License & Copyright
-***#All ideas, content, images, and related documents are owned by the SRASS Team and FPT University, Ho Chi Minh Campus's Research Department.***
+***All ideas, content, images, and related documents are owned by the SRASS Team and FPT University, Ho Chi Minh Campus's Research Department.***
 
 ***This presentation is protected by Vietnam and International Copyright laws. Reproduction, distribution, display and use of the presentation without written permission of the owner is prohibited.***
 
