@@ -168,11 +168,12 @@ A system handler is a system actor that performs some system's special tasks. Th
 -| 1.1| [Front-end](https://github.com/Hien-BT01/capstone-client) | Front-end source code (Private)
 -| 1.2| [Back-end](https://github.com/ThuongHoang456189/Sras.PublicCoreflow) | Back-end source code (Private)
 2| -| Database | Database Information
--| 2.1| [Database Entity Relationship Diagram]() | Database ERD
-3| -| [Document Folder]() | Final Document
-4| -| [Test Report]() | Test Report
-5| -| [Slide]() | Final Presentation Slide
-6| -| [Diagram Image]() | Diagram Image
+-| 2.1| [Database Entity Relationship Diagram](/DatabaseScript) | Database ERD
+3| -| [Document Folder](/Report) | Final Document
+4| -| [Test Report](/SU23SE08_Test_Report.xlsx) | Test Report
+5| -| [Slide](/Presentation%20Slide) | Final Presentation Slide
+6| -| [Diagram Image](/Diagram) | Diagram Image
+7| -| [ScreenFlow](/ScreenFlow) | Diagram Image
 
 ## Contributors
 **1. Supervisor:**
