@@ -1,4 +1,4 @@
-![image](https://github.com/SCIENCE-RESEARCH-ACTIVITY-SUPPORT-SRASS/science-research-activity-support-system/assets/91832010/2bab95d4-f857-46a4-97ab-598d5c56eff4)# <img src="https://raw.githubusercontent.com/SCIENCE-RESEARCH-ACTIVITY-SUPPORT-SRASS/.github/main/profile/asset/logo.png" width="80" height="50" style="border-radius: 10%"/> Science Research Activity Support System (SRASS)​ - Capstone Project
+# <img src="https://raw.githubusercontent.com/SCIENCE-RESEARCH-ACTIVITY-SUPPORT-SRASS/.github/main/profile/asset/logo.png" width="80" height="50" style="border-radius: 10%"/> Science Research Activity Support System (SRASS)​ - Capstone Project
 
 ## Welcome to our Graduation Capstone Project
 
