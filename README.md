@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/SCIENCE-RESEARCH-ACTIVITY-SUPPORT-SRASS/.github/main/profile/asset/logo.png" width="80" height="50" style="border-radius: 10%"/> Science Research Activity Support System (SRASS)​ - Capstone Project
+![image](https://github.com/SCIENCE-RESEARCH-ACTIVITY-SUPPORT-SRASS/science-research-activity-support-system/assets/91832010/2bab95d4-f857-46a4-97ab-598d5c56eff4)# <img src="https://raw.githubusercontent.com/SCIENCE-RESEARCH-ACTIVITY-SUPPORT-SRASS/.github/main/profile/asset/logo.png" width="80" height="50" style="border-radius: 10%"/> Science Research Activity Support System (SRASS)​ - Capstone Project
 
 ## Welcome to our Graduation Capstone Project
 
@@ -41,7 +41,7 @@ This is a sophisticated process. Furthermore, this process largely depends on th
 
 
 ## Live Demo
- 👨‍💻 [Live Demo Here]()
+ 👨‍💻 [Live Demo Here](https://www.youtube.com/watch?v=Cvmue92NwxE)
   
 ## Technology
 **1. Frontend**
@@ -148,13 +148,13 @@ A reviewer is an authenticated user who joins a conference as a reviewer to eval
 + Enter review
 + Declare reviewer conflicts of interest
 
-**6. Research lecturer:**
+**7. Research lecturer:**
 A research lecturer is an authenticated user who has registered the email of the domain "fe.edu.vn". A research lecturer has
 permission with the following functions:
 + Input research profile information
 + View the research profile
 
-**6. System handler:**
+**8. System handler:**
 A system handler is a system actor that performs some system's special tasks. These tasks include:
 + Update automatically conference progress over time
 + Detect submission conflicts of interest
