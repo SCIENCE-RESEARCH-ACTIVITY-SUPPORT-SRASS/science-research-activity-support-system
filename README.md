@@ -181,7 +181,7 @@ A system handler is a system actor that performs some system's special tasks. Th
 - Enterprise: **FPT University, Ho Chi Minh Campus's Research Department**
 
 **2. Members:**
-- [Hoang THi Hoai Thuong](https://github.com/ThuongHoang456189) - SE140087 - **Team Leader | Back-end Developer | Database Designer | Business Analyst**
+- [Hoang Thi Hoai Thuong](https://github.com/ThuongHoang456189) - SE140087 - **Team Leader | Back-end Developer | Database Designer | Business Analyst**
 - [Mai Hoang Duong](https://github.com/HoangDuong1106) - 	SE140196 - **Back-end Lead | Back-end Developer | Database Designer**
 - [Bui The Hien](https://github.com/Hien-BT01) - SE150763 - **Front-end Lead | Front-end Developer | Tester**
 - [Nguyen Dang Truong Anh](https://github.com/peterndta) - SE150640 - **UI Designer | Front-end Developer | Tester**
